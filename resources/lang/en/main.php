@@ -14,6 +14,7 @@ return [
     'notifications' => 'Notifications',
     'image' => 'Image',
     'edit_profile' => 'Edit Profile',
+    'website' => 'Website',
 
     'users_permissions' => 'Users & Permissions',
     'users' => 'Users',

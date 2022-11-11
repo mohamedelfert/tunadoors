@@ -21,7 +21,7 @@ Route::group(['prefix' => LaravelLocalization::setLocale(), 'middleware' => ['lo
 
     Route::group(['middleware' => 'maintenance'], function () {
         Route::get('/', function () {
-            return view('front/welcome');
+            return view('front/index');
         });
     });
 

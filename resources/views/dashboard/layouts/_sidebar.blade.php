@@ -39,6 +39,13 @@
                             <span class="right-nav-text">@lang('main.settings')</span>
                         </a>
                     </li>
+                    <!-- Website -->
+                    <li>
+                        <a href="{{ url('/') }}" target="_blank">
+                            <i class="ti-world"></i>
+                            <span class="right-nav-text">@lang('main.website')</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>

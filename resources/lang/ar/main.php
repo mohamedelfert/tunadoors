@@ -14,6 +14,7 @@ return [
     'notifications' => 'الإشعارات',
     'image' => 'الصورة',
     'edit_profile' => 'تعديل الحساب',
+    'website' => 'الموقع',
 
     'users_permissions' => 'المستخدمين & الصلاحيات',
     'users' => 'المستخدمين',
